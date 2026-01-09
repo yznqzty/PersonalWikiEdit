@@ -1,39 +1,26 @@
-{{VOCALOID_Songbox
-|image    = $上传曲绘$
-|图片信息 = Illustration by $曲绘作者$
-|颜色     = $标题背景颜色$;color:$背景颜色$;
-|演唱     = $演唱的VOCALOID$
-|歌曲名称 = $歌名原名$
-|P主      = $P主$
-|nnd_id   = $nico视频ID$
-|yt_id    = $youtube视频ID$
-|其他资料 = 于$日期$投稿至niconico，再生数为{{niconicoCount|id=$nico视频ID$}}<br/>同日投稿至YouTube，再生数为{{YoutubeCount|id=$youtube视频ID$}}
+{{标题替换|{{lj|$原歌曲名$}}}}
+{{About|$当前页面$|$其他页面$|}} // 消歧义
+{{Infobox Song
+|歌曲名       = {{lj|$原歌曲名$}}
+|image        = $曲绘$ // 没有上传
+|图片信息     = Illustration by $曲绘作者$
+|制作人       = $制作人$
+|演唱         = $演唱人$
+|曲绘         = $曲绘作者$
+|PV           = $PV作者$
+|混音         = $混音人$
+|母带         = $母带制作人$
 }}
 
-《'''$歌曲原名$'''》是由$作者$于$时间$投稿至[[niconico]]和[[YouTube]]的[[VOCALOID]]日语原创歌曲，由$演唱的VOCALOID$演唱，收录于同名专辑。
-
-//这首歌曲的纯音乐版本可以参见[$可能的纯音乐链接]。
-
-{{VOCALOID Songbox Introduction
-|lbgcolor=$标题背景颜色$
-|ltcolor=$文字背景颜色$
-|group1 = 音乐
-|list1 = $音乐作者$
-|group2 = 曲绘
-|list2 = $曲绘作者$
-|group3 = PV
-|list3 = $PV作者$
-|group4 = 混音&母带处理
-|list4 = $处理人$
-|group5 = 演唱
-|list5 = $VOCALOID$
-}}
+《'''{{lj|$原歌曲名$}}'''》是由$作者$于$完整时间$投稿至[[niconico]]和[[YouTube]]的日语原创歌曲，由$演唱人$演唱，收录于同名专辑。
 
 == 歌曲 ==
-{{bilibiliVideo|id=$查找对应镜像链接$}}
+{{music163|$网易云链接ID$}}
+;MV
+{{bilibiliVideo|id=$哔哩哔哩对应镜像$}}
 
 == 歌词 ==
-*由AI翻译<ref>Prompt见[$ai翻译命令$ Github]</ref>。
+*翻译来自$翻译作者$<ref>$翻译出处</ref>。
 {{LyricsKai
 |lstyle=color:$左边颜色$;font-weight:bold;
 |rstyle=color:$右边颜色$;font-weight:bold;
@@ -46,5 +33,3 @@ $分段翻译$
 == 注释 ==
 <references/>
 [[分类:日本音乐作品]]
-[[分类:使用VOCALOID的歌曲]]
-[[分类:$VOCALOID$歌曲]]

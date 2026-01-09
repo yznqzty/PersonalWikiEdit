@@ -1,18 +1,22 @@
+{{标题替换|{{lj|声の欠片}}}}
+{{About|[[MIMI]]创作、[https://x.com/Yoi_whisper {{lj|宵(月)}}]演唱的日语原创歌曲|动画《[[烈火浇愁]]》日配版的[[片尾曲]]|声音的碎片(烈火浇愁)}}
 {{Infobox Song
-|歌曲名       = 声の欠片
+|歌曲名       = {{lj|声の欠片}}
 |image        = 声の欠片曲绘.jpeg
-|图片信息     = Illustration by [https://x.com/makoron117117 まころん]
+|图片信息     = Illustration by [https://x.com/makoron117117 {{lj|まころん}}]
 |制作人       = [[MIMI]]
-|演唱         = [https://x.com/Yoi_whisper 宵 (月)]
-|曲绘         = [https://x.com/makoron117117 まころん]
-|PV           = [https://x.com/yk__rm 瀬戸わらび]
-|混音         = [https://x.com/saburousan3263 さぶろう]
-|母带         = [https://x.com/saburousan3263 さぶろう]
+|演唱         = [https://x.com/Yoi_whisper {{lj|宵(月)}}]
+|曲绘         = [https://x.com/makoron117117 {{lj|まころん}}]
+|PV           = [https://x.com/yk__rm {{lj|瀬戸わらび}}]
+|混音         = [https://x.com/saburousan3263 {{lj|さぶろう}}]
+|母带         = [https://x.com/saburousan3263 {{lj|さぶろう}}]
 }}
 
-《'''声の欠片'''》是由[[MIMI]]于2025年12月16日投稿至[[niconico]]和[[YouTube]]的日语原创歌曲，由宵(月)演唱，收录于同名专辑。
+《'''{{lj|声の欠片}}'''》是由[[MIMI]]于2025年12月16日投稿至[[niconico]]和[[YouTube]]的日语原创歌曲，由宵(月)演唱，收录于同名专辑。
 
 == 歌曲 ==
+{{music163|3329310740}}
+;MV
 {{bilibiliVideo|id=BV14BqZBAEFp}}
 
 == 歌词 ==
