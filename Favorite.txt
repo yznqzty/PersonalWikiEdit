@@ -1,6 +1,16 @@
-https://commons.moegirl.org.cn/萌娘共享:文件分类指引#文件类型分类页
-https://commons.moegirl.org.cn/Category:曲绘
+萌娘共享:文件分类指引#文件类型分类页
+Category:曲绘
+Template:Tabs
 
-{{music163|$音乐id$}}
-{{bilibiliVideo|id=$视频id$}}
 {{lj|$日文$}}
+
+Template:用户_网易云音乐
+
+Template:AppleMusic
+Template:Bandcamp
+Template:Music163           # {{music163|$音乐id$}}
+Template:Spotify
+
+Template:YoutubeVideo
+Template:YoutubeCount
+Template:bilibiliVideo      # {{bilibiliVideo|id=$视频id$}}
