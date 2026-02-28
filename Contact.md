@@ -1,6 +1,6 @@
 # 联系方式：
 
-以下联系方式可以用来[联系删除侵权内容](https://github.com/yznqzty/PersonalWikiEdit/blob/main/Del.md)或者其他告知内容。
+以下联系方式可以用来[联系删除侵权内容](Del.md)或者其他告知内容。
 
 如果多次发送骚扰内容，你可能会被拉黑。
 

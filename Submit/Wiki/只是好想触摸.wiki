@@ -1,7 +1,18 @@
 {{标题替换|{{lj|触れていたいだけ}}}}
 {{Infobox Song
 |歌曲名       = {{lj|触れていたいだけ}}
-|image        = [[只是好想触摸曲绘.jpg]]
+<!-- |image        = [[只是好想触摸曲绘.jpg]] -->
+|tabs=//此处编辑终止
+{{tabs
+|bt1=画师发布曲绘
+|tab1=[[File:Cover 纯纯的心.jpg|280px]]
+|bt2=作者重发PV图片<ref>该图片为作者在 X 上重新发布的图片，参见[ 这里]</ref>
+|tab2=[[File:Cover Ho-Kago Tea Time II.jpg|280px]]
+|DefaultTab=1
+|TextPadding=0
+}}
+阅读更多：https://mzh.moegirl.org.cn/Template:Infobox_Song
+本文引自萌娘百科(https://mzh.moegirl.org.cn )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。
 |图片信息     = Illustration by [https://x.com/makoron117117 まころん]
 |制作人       = [[MIMI]]
 |演唱         = [https://x.com/Yoi_whisper {{lj|宵(月)}}]

@@ -722,6 +722,19 @@
 |条目     = 咏叹调
 |标题     = {{lj|ありあ}}
 |image    = https://nicovideo.cdn.nimg.jp/thumbnails/43431972/43431972.47335056.M}}
+<!-- 只是好想触摸（{{lj|触れていたいだけ}}）不在收录范围。 -->
+{{Producer_Music_Card
+|nnd_id   = sm45612417
+|yt_id    = lEoDjtCm488
+|作曲     = MIMI
+|填词     = MIMI
+|视频制作 = {{lj|[https://x.com/yk__rm 瀬戸わらび]}}
+|画师     = {{lj|[https://x.com/makoron117117 まころん]}}
+|演唱者   = {{lj|[https://x.com/TSUKI_0409 月(宵)]}}
+|歌曲描述 = 
+|投稿日期 = 2024年3月10日
+|标题     = {{lj|触れていたいだけ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/45612417/45612417.5582640.M}}
 {{Producer_Music_Card
 |nnd_id   = sm43585854
 |yt_id    = p3Geomh2EuY
@@ -1019,19 +1032,65 @@
 |yt_id    = 8gcrKkXTx64
 |作曲     = MIMI
 |填词     = MIMI
-|视频制作 = [https://x.com/yk__rm 瀬戸わらび]
-|画师     = [https://x.com/makoron117117 まころん]
+|视频制作 = {{lj|[https://x.com/yk__rm 瀬戸わらび]}}
+|画师     = {{lj|[https://x.com/makoron117117 まころん]}}
 |演唱者   = {{lj|[https://x.com/Yoi_whisper 宵(月)]}}
 |歌曲描述 = 
 |投稿日期 = 2025年12月16日
 |条目     = 声音的碎片(MIMI)
 |标题     = {{lj|声の欠片}}
-|image    = https://storage.moegirl.org.cn/moegirl/commons/3/36/声の欠片曲绘.jpeg
-}}
+|图像    = 声の欠片曲绘.jpeg}}
 
 |bt11=2026
 |tab11=
-
+{{Producer_Music_Card
+|nnd_id   = sm45795157
+|yt_id    = uoYegcqyfxE
+|作曲     = MIMI
+|填词     = MIMI
+|视频制作 = {{lj|[https://x.com/bokarokaku 3774.]}}
+|画师     ={{lj|[https://x.com/bokarokaku 3774.]}}
+|演唱者   = [[重音Teto|{{lj|重音テトSV}}]]
+|歌曲描述 = 
+|投稿日期 = 2026年1月2日
+|标题     = {{lj|トリックハート}}
+|image   = https://nicovideo.cdn.nimg.jp/thumbnails/45795157/45795157.13282674.M}}
+<!-- {{lj|それでも優しかった君へ}} 没有在 niconico 上发布。 -->
+{{Producer_Music_Card
+|yt_id    = iUXrTnEeqRw
+|作曲     = MIMI
+|填词     = MIMI
+|视频制作 = {{lj|[https://x.com/kuma_235 熊谷 芙美子]}}
+|画师     = {{lj|[https://x.com/makoron117117 まころん]}}
+|演唱者   = {{lj|[https://x.com/okiishi_892 沖石]}}
+|歌曲描述 = 
+|投稿日期 = 2026年1月31日
+|标题     = {{lj|それでも優しかった君へ}}
+|image   = }}
+{{Producer_Music_Card
+|nnd_id   = sm45930882
+|yt_id    = -2FCAZLhh-Y
+|作曲     = MIMI
+|填词     = MIMI
+|视频制作 = {{lj|[https://x.com/skyw315 檀上大空]}}
+|画师     = {{lj|[https://x.com/skyw315 檀上大空]}}
+|演唱者   = {{lj|[[初音未来|{{lj|初音ミク}}]]}}、[[重音Teto|{{lj|重音テトSV}}]]
+|歌曲描述 = 
+|投稿日期 = 2026年2月10日
+|标题     = {{lj|柔く、ほどいて}}
+|image   = https://nicovideo.cdn.nimg.jp/thumbnails/45930882/45930882.54945027.M}}
+{{Producer_Music_Card
+|nnd_id   = sm45974749
+|yt_id    = IxVFW1XIW7Q
+|作曲     = MIMI
+|填词     = MIMI
+|视频制作 = {{lj|[https://x.com/yk__rm 瀬戸わらび]}}
+|画师     = {{lj|[https://x.com/sutera_sea おいしいさめ]}}
+|演唱者   = [[重音Teto|{{lj|重音テトSV}}]]
+|歌曲描述 = 
+|投稿日期 = 2026年2月21日
+|标题     = {{lj|花びら哀歌}}
+|image   = https://nicovideo.cdn.nimg.jp/thumbnails/45968109/45968109.53878730.M}}
 
 |DefaultTab=11
 }}

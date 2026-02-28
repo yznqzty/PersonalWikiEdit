@@ -7,3 +7,44 @@
 PV视频镜像选择哔哩哔哩的视频，字幕不应遮挡的视频，软字幕优先。
 
 如果没有视频（判别时间为写百科时，而不是上传视频时），则使用账号[https://space.bilibili.com/3493281633668061 Yznqzty]加字幕上传，在简介中保留mkv封装。
+
+=== 用户页子页面 ===
+
+# [[User:Yznqzty/QQHash]]
+
+=== 用户讨论页子页面 ===
+
+# [[User_Talk:Yznqzty/唱唱反调]]
+# [[User_Talk:Yznqzty/萌娘百科月报]]
+
+=== Wiki杂项 ===
+
+<code>.</code> 指[https://github.com/yznqzty/PersonalWikiEdit Github仓库]根目录。
+
+====== 正在书写 ======
+
+<!-- # [https://github.com/yznqzty/PersonalWikiEdit/blob/main/Submit/Wiki/MIMI.wiki MIMI] -->
+# [https://github.com/yznqzty/PersonalWikiEdit/blob/main/Submit/Template/MIMI.wiki Template:MIMI]
+
+====== 长期关注 ======
+
+# [[MIMI]]
+# [[Template:MIMI]]
+
+====== 无法上传 ======
+
+此处为因为网络<del>或萌娘百科的问题</del>无法上传的页面，本人未能在[[萌娘百科_talk:讨论版/技术实现/存档/2026年02月#上传文件出现500错误|讨论版]]成功寻求方法，正在尝试寻找解决方案。
+
+您也可以代为上传。
+
+# [https://github.com/yznqzty/PersonalWikiEdit/blob/main/Archive/Commons/26012801只是好想触摸曲绘.jpg ./Archive/Commons/26012801只是好想触摸曲绘.jpg]
+# [https://github.com/yznqzty/PersonalWikiEdit/blob/main/Archive/Commons/26012801只是好想触摸曲绘.jpg.info ./Archive/Commons/26012801只是好想触摸曲绘.jpg.info]
+
+====== 不在收录范围 ======
+
+本人写了一些不在收录范围内的内容，目前没有被上传到萌娘百科。
+
+以下文件除内部引用内容遵循原作者著作权，其他个人书写内容按照 MIT 协议进行共享。如果您需要上传到其他百科，请进行署名。
+
+# [https://github.com/yznqzty/PersonalWikiEdit/blob/main/Submit/Wiki/只是好想触摸.ext ./Submit/Wiki/只是好想触摸.ext]
+# [https://github.com/yznqzty/PersonalWikiEdit/blob/main//Submit/Wiki/只是好想触摸.wiki ./Submit/Wiki/只是好想触摸.wiki]
